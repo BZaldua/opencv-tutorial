@@ -1,0 +1,7 @@
+# File extensions
+**/*.png
+**/*.jpg
+**/*.mp4
+
+venv
+.idea
